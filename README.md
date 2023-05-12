@@ -2,11 +2,11 @@
 
 I'm the former Head of a Python developers department at RBC.
 
-[![rbc.ru](https://avatars.githubusercontent.com/u/10046125?s=64&amp;v=4)](https://rbc.ru/)
+[![rbc.ru](https://avatars.githubusercontent.com/u/10046125?s=32&amp;v=4)](https://rbc.ru/)
 
 Since July 2022 I'm the Tech Lead of the Billing Team at Gcore.
 
-[<img alt="Gcore" width="64px" src="https://avatars.githubusercontent.com/u/24672571?s=200&v=4" />](https://gcore.com/)
+[<img alt="Gcore" width="32px" src="https://avatars.githubusercontent.com/u/24672571?s=200&v=4" />](https://gcore.com/)
 
 ### Languages and tools
 [<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/1332180/141789659-5fab65a8-6df3-4d5a-85ad-5486f49985d2.png" />](https://www.python.org/)
