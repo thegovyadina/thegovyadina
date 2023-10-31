@@ -4,7 +4,7 @@ I'm the former Head of a Python developers department at RBC.
 
 [![rbc.ru](https://avatars.githubusercontent.com/u/10046125?s=32&amp;v=4)](https://rbc.ru/)
 
-Since July 2022 I'm the Tech Lead of the Billing Team at Gcore.
+Since July 2022 I'm the Team Lead of the Billing Team at Gcore.
 
 [<img alt="Gcore" width="32px" src="https://avatars.githubusercontent.com/u/24672571?s=200&v=4" />](https://gcore.com/)
 
